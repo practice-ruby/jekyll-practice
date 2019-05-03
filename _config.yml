@@ -17,7 +17,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 
 plugins:
   # required plugins for github pages
