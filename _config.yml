@@ -20,6 +20,17 @@ defaults:
 theme: jekyll-theme-cayman
 
 plugins:
+  # required plugins for github pages
+  - jekyll-coffeescript
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  # optional plugins
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
