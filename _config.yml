@@ -33,3 +33,5 @@ plugins:
   # optional plugins
   - jekyll-sitemap
   - jekyll-seo-tag
+
+exclude: [vendor]
